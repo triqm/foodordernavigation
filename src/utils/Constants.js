@@ -1,0 +1,10 @@
+// constants.js
+
+export const DATA_AVAILABLE = 'DATA_AVAILABLE';
+export const FOOD_AVAILABLE = 'FOOD_AVAILABLE';
+
+export const UPDATE_ORDER_LIST = 'UPDATE_ORDER_LIST';
+export const INIT_ORDER_FOOD_DETAIL = 'INIT_ORDER_FOOD_DETAIL';
+export const INIT_ORDER_DETAIL = 'INIT_ORDER_DETAIL';
+
+export const API_DOMAIN_URL = 'http://10.0.3.2:8091';
